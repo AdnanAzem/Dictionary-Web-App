@@ -1,0 +1,23 @@
+# node modules
+**/node_modules/
+**package-lock.json
+
+# environment variables
+**.env
+
+# TypeScript build output
+**dist/
+**build/
+*.js
+*.js.map
+*.d.ts
+
+# logs
+logs/
+
+# General
+*.log
+.DS_Store
+
+# TypeScript output
+*.tsbuildinfo
